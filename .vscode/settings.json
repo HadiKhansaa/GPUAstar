@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cmake.cmakePath": "C:/Program Files/CMake/cmake-3.30.0-rc1-windows-x86_64/bin/cmake.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "queue": "cpp"
+    }
+}
